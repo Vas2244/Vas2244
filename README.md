@@ -1,7 +1,5 @@
 # Hi, I am Vasana 👋🏽
 
-##### 🚀 I started my coding journey at Le Wagon's 9-week intensive web dev bootcamp, and I'm now completing my part-time MSc in Computer Science. Always up for collaborating, so feel free to drop a message! 🌟
-
 ###### 👩🏽‍💻 Portfolio: https://troopl.com/vasana1997
 
 ###### 📧 Reach me: vasana1997@hotmail.com
