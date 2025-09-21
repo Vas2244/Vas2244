@@ -1,9 +1,3 @@
-# Hi, I am Vasana 👋🏽
-
-###### 👩🏽‍💻 Portfolio: https://troopl.com/vasana1997
-
-###### 📧 Reach me: vasana1997@hotmail.com
-
 ###### Connect with me: 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  title="Linkedin" alt="Linkedin" width="40" height="40"/>&nbsp;
           
