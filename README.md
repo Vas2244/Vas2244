@@ -1,7 +1,6 @@
 # Hi, I'm Vasana ☺️
  
-**Data Insight Analyst & Backend Developer | Based in London, UK  
-**
+Data Insight Analyst & Backend Developer | Based in London, UK  
 
 I design and build data-driven systems and backend applications, focused on real-world workflows in healthcare and service environments.
 ---
