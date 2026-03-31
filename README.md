@@ -27,7 +27,7 @@ Python · SQL · JavaScript · Django · Django REST Framework · PostgreSQL · 
 
 ## 🚀 Featured Projects  
 
-### Clinic Management API  
+### 🏥 Clinic Management API  
 Backend system modelling real clinic operations.
 
 - Django REST Framework + PostgreSQL  
@@ -38,7 +38,7 @@ Backend system modelling real clinic operations.
 
 ---
 
-### Sustainable Habit Tracking App  
+###  🌱 Sustainable Habit Tracking App  
 Full-stack web application built in an Agile team environment.
 
 - Delivered features under sprint deadlines  
@@ -47,7 +47,7 @@ Full-stack web application built in an Agile team environment.
 
 ---
 
-### Vinyl Selling Platform  
+### 💿 Vinyl Selling Platform  
 E-commerce-style application for managing and listing vinyl records.
 
 - Product listing and data handling  
