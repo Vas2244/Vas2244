@@ -1,9 +1,9 @@
-# Hi, I'm Vasana 👋  
+# Hi, I'm Vasana ☺️
+ 
+**Data Insight Analyst & Backend Developer | Based in London, UK  
+**
 
-🚀 Data Insight Analyst & Backend Developer | 🌍 Based in London, UK  
-
-I build data-driven systems and backend applications, with a focus on real-world workflows in healthcare and service environments.
-
+I design and build data-driven systems and backend applications, focused on real-world workflows in healthcare and service environments.
 ---
 
 ## 🛠️ Tech Stack  
@@ -28,7 +28,7 @@ Python · SQL · JavaScript · Django · Django REST Framework · PostgreSQL · 
 ## 🚀 Featured Projects  
 
 ### 🏥 Clinic Management API  
-Backend system modelling real clinic operations.
+Backend system designed around real clinic workflows.
 
 - Django REST Framework + PostgreSQL  
 - Patient → Visit → Clinical Note data model  
@@ -38,7 +38,7 @@ Backend system modelling real clinic operations.
 
 ---
 
-###  🌱 Sustainable Habit Tracking App  
+### 🌱 Sustainable Habit Tracking App  
 Full-stack web application built in an Agile team environment.
 
 - Delivered features under sprint deadlines  
@@ -67,12 +67,9 @@ Data dashboard to track performance, capacity, and demand.
 
 ## 🌐 Let’s Connect  
 
-<a href="www.linkedin.com/in/vasana-attanayake">
+<a href="https://www.linkedin.com/in/vasana-attanayake">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
-
-          
-</div>
 <!--
 **Vas2244/Vas2244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
