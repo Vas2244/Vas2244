@@ -67,7 +67,7 @@ Data dashboard to track performance, capacity, and demand.
 
 ## 🌐 Let’s Connect  
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/vasana-attanayake">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 
