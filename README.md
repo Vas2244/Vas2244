@@ -70,5 +70,3 @@ Data dashboard to track performance, capacity, and demand.
 <a href="https://www.linkedin.com/in/vasana-attanayake">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
-**Vas2244/Vas2244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
