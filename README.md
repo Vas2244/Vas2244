@@ -56,7 +56,7 @@ E-commerce-style application for managing and listing vinyl records.
 
 ---
 
-### Clinic Operations Dashboard  
+### 📊 Clinic Operations Dashboard  
 Data dashboard to track performance, capacity, and demand.
 
 - Built with Power BI  
